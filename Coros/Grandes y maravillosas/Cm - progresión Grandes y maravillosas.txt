@@ -1,0 +1,22 @@
+Am:
+	Am - Bdim - C -  Dm - E - F -  G
+Cm:
+	Cm - Cdim - D# - Fm - G - G# - A#
+
+{
+	Am E		->	Cm G
+	A		->	C
+	G		->	A#
+	F E Am		->	G# G Cm
+
+	E Am E Am	->	G Cm G Cm
+}
+
+
+Grandes y maravillosas son tus obras
+Señor Dios todopoderoso
+Justos y verdaderos son tus caminos
+Rey de los santos Rey de los santos rey de los santos
+
+
+
