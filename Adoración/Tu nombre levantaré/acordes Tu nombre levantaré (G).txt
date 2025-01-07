@@ -7,7 +7,7 @@ G       C          D   C
 G      C           D   C
   Me deleito en adorarte
 G        C               D           C
-  Te agradezco que en mi vida estes
+  Te agradezco que en mi vida estés
 G         C         D
   Que vinieras a salvarme
 
@@ -78,6 +78,8 @@ Am7       D        Em  D
 Am7       D        G   C
   Tu nombre levantaré
 
+G - C - D-G
+
 [Final]
-G - C - G - C
+C - G - C - G
 

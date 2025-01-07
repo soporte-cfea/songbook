@@ -36,12 +36,12 @@ C                   G
 [verso 1]
 Am           G
     Preciosa sangre 
-            Em  Bm
-    se derramó
+                 Em  Bm
+    que me purificó
 Am           G
     Preciosa sangre
-               Em  Bm
-    fluyó por amor
+                   Em  Bm
+    que me transformó
 
 
 [verso 2]
@@ -91,30 +91,36 @@ C                   G
 
 
 [Coro]
-D                   A
+C                   G
     Hay poder en la sangre
-F#m                E
+Em                 D
     Que fluyó por amor
-D                   A
+C                   G
     Hay poder en la sangre
-                E
+                D
     Que él derramó
 
 
 [Coro]
-D                   A
+C                   G
     Hay poder en la sangre
-F#m                E
+Em                 D
     Que fluyó por amor
-D                   A
+C                   G
     Hay poder en la sangre
-                E
+                D
     Que él derramó
 
 
 [Instrumental]
 Am - Em - C - G-D
 Am - Em - Bm - D
+
+Am - Em - C - G-D
+Am - Em - Bm - D
+
+Am - Em - C - G-D
+Am - Em - D - D
 
 
 [Coro]
