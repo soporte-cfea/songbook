@@ -1,0 +1,128 @@
+G
+Con adornos
+
+[1. VERSO]
+   G     D/F#            Em   
+Al borde      de tu gran trono
+   C        Am       D  C-D
+Me postraré    hoy a ti
+   G      D/F#            Em
+Tu reinas     sobre principados
+   C   Am                 D   C-D
+Sentado   a la diestra de Dios
+
+[2. CORO]
+ G      D/F#            Em   D
+Exáltate     oh gran cordero
+   C        Am       D  C-D
+Tú vives hoy   y vivirás
+  G     D/F#          Em    D
+Corónate    con mi alabanza
+   C        D        G
+Tu nombre es el vencedor
+
+[3. VERSO]
+   G     D/F#            Em   
+Al borde      de tu gran trono
+   C        Am       D  C-D
+Me postraré    hoy a ti
+   G      D/F#            Em
+Tu reinas     sobre principados
+   C   Am                 D   C-D
+Sentado   a la diestra de Dios
+
+[4. CORO]
+ G      D/F#            Em   D
+Exáltate     oh gran cordero
+   C        Am       D  C-D
+Tú vives hoy   y vivirás
+  G     D/F#          Em    D
+Corónate    con mi alabanza
+   C        Am        D  C-D
+Tu nombre es el vencedor
+
+[5. CORO]
+ G      D/F#            Em   D
+Exáltate     oh gran cordero
+   C        Am       D  C-D
+Tú vives hoy   y vivirás
+  G     D/F#          Em    D
+Corónate    con mi alabanza
+   C        D        G
+Tu nombre es el vencedor
+
+
+A
+
+[VERSO]
+   A     E/G#            F#m   
+Al borde      de tu gran trono
+   D        Bm       E  D-E
+Me postraré    hoy a ti
+   A      E/G#            F#m
+Tu reinas     sobre principados
+   D   Bm                 E   D-E
+Sentado   a la diestra de Dios
+
+[CORO]
+ A      E/G#            F#m   E
+Exáltate     oh gran cordero
+   D        Bm       E  D-E
+Tú vives hoy   y vivirás
+  A     E/G#          F#m    E
+Corónate    con mi alabanza
+   D        E        A
+Tu nombre es el vencedor
+
+ESTRUCTURA
+
+[1. VERSO]
+[2. CORO]
+
+[3. VERSO]
+[4. CORO]
+[5. CORO]
+
+[6. VERSO]
+[7. CORO]
+[8. CORO]
+
+Sube de tono a A: {
+    ...
+       C         Am         D   E
+    Tu nombre es    el vencedor
+
+     A                  F#m
+    Exáltate oh gran cordero
+    ...
+}
+[9. CORO]
+[10. CORO]
+
+[11. FINAL]
+
+
+
+
+
+Sin adornos
+
+[VERSO]
+   G                Em
+Al borde de tu gran trono
+   C        Am       D
+Me postraré    hoy a ti
+   G                  Em
+Tu reinas sobre principados
+   C   Am                 D
+Sentado   a la diestra de Dios
+
+[CORO]
+ G                  Em
+Exáltate oh gran cordero
+   C        Am       D
+Tú vives hoy   y vivirás
+  G                Em
+Corónate con mi alabanza
+   C         D        G
+Tu nombre es   el vencedor
